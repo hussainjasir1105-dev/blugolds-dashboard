@@ -1,0 +1,2828 @@
+[
+ {
+  "game": 1,
+  "player": "Will Boser",
+  "min": 35,
+  "pts": 21,
+  "reb": 3,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Carter Lichtsinn",
+  "min": 31,
+  "pts": 17,
+  "reb": 3,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Andre Renta",
+  "min": 31,
+  "pts": 13,
+  "reb": 2,
+  "ast": 5,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Xavier Lewis",
+  "min": 11,
+  "pts": 6,
+  "reb": 4,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Kenji Scales",
+  "min": 21,
+  "pts": 5,
+  "reb": 5,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Luke Reder",
+  "min": 11,
+  "pts": 6,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Henry Hoel",
+  "min": 18,
+  "pts": 5,
+  "reb": 6,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Roan Demovsky",
+  "min": 10,
+  "pts": 4,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Roman Richards",
+  "min": 10,
+  "pts": 3,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Joey Butz",
+  "min": 21,
+  "pts": 0,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "Tyler Haney",
+  "min": 1,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 1,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Will Boser",
+  "min": 33,
+  "pts": 14,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Kenji Scales",
+  "min": 28,
+  "pts": 14,
+  "reb": 8,
+  "ast": 4,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Xavier Lewis",
+  "min": 23,
+  "pts": 11,
+  "reb": 6,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Andre Renta",
+  "min": 18,
+  "pts": 9,
+  "reb": 6,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Carter Lichtsinn",
+  "min": 27,
+  "pts": 8,
+  "reb": 7,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Henry Hoel",
+  "min": 12,
+  "pts": 9,
+  "reb": 6,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Roan Demovsky",
+  "min": 20,
+  "pts": 8,
+  "reb": 4,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Roman Richards",
+  "min": 9,
+  "pts": 4,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Colin Schultz",
+  "min": 2,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Luke Reder",
+  "min": 4,
+  "pts": 1,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Joey Butz",
+  "min": 13,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Tyler Haney",
+  "min": 4,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Andrew Rocksvold",
+  "min": 4,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Bryce Borowicz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "Landon Wendinger",
+  "min": 1,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 2,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Kenji Scales",
+  "min": 21,
+  "pts": 10,
+  "reb": 2,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Xavier Lewis",
+  "min": 15,
+  "pts": 10,
+  "reb": 8,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Carter Lichtsinn",
+  "min": 19,
+  "pts": 8,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Will Boser",
+  "min": 20,
+  "pts": 5,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Andre Renta",
+  "min": 14,
+  "pts": 3,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Joey Butz",
+  "min": 18,
+  "pts": 15,
+  "reb": 5,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Tyler Haney",
+  "min": 15,
+  "pts": 11,
+  "reb": 2,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Luke Reder",
+  "min": 9,
+  "pts": 9,
+  "reb": 3,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Henry Hoel",
+  "min": 12,
+  "pts": 7,
+  "reb": 6,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Roman Richards",
+  "min": 13,
+  "pts": 5,
+  "reb": 1,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Colin Schultz",
+  "min": 3,
+  "pts": 3,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Mondes Kelly",
+  "min": 2,
+  "pts": 2,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Roan Demovsky",
+  "min": 20,
+  "pts": 1,
+  "reb": 4,
+  "ast": 4,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Bryce Borowicz",
+  "min": 6,
+  "pts": 0,
+  "reb": 2,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Andrew Rocksvold",
+  "min": 6,
+  "pts": 0,
+  "reb": 0,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Carter Koch",
+  "min": 3,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Ty Miller",
+  "min": 2,
+  "pts": 0,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "Landon Wendinger",
+  "min": 2,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 3,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Carter Lichtsinn",
+  "min": 37,
+  "pts": 16,
+  "reb": 8,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Will Boser",
+  "min": 40,
+  "pts": 11,
+  "reb": 6,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Andre Renta",
+  "min": 25,
+  "pts": 9,
+  "reb": 5,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Xavier Lewis",
+  "min": 22,
+  "pts": 6,
+  "reb": 7,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Kenji Scales",
+  "min": 26,
+  "pts": 5,
+  "reb": 6,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Henry Hoel",
+  "min": 10,
+  "pts": 5,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Roan Demovsky",
+  "min": 15,
+  "pts": 4,
+  "reb": 1,
+  "ast": 5,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Luke Reder",
+  "min": 8,
+  "pts": 3,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Joey Butz",
+  "min": 14,
+  "pts": 2,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "Roman Richards",
+  "min": 3,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 4,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Xavier Lewis",
+  "min": 17,
+  "pts": 21,
+  "reb": 7,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Andre Renta",
+  "min": 21,
+  "pts": 15,
+  "reb": 4,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Carter Lichtsinn",
+  "min": 28,
+  "pts": 12,
+  "reb": 4,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Kenji Scales",
+  "min": 24,
+  "pts": 12,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Will Boser",
+  "min": 21,
+  "pts": 0,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Tyler Haney",
+  "min": 15,
+  "pts": 10,
+  "reb": 2,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Joey Butz",
+  "min": 13,
+  "pts": 9,
+  "reb": 0,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Henry Hoel",
+  "min": 12,
+  "pts": 7,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Luke Reder",
+  "min": 6,
+  "pts": 6,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Roan Demovsky",
+  "min": 15,
+  "pts": 4,
+  "reb": 1,
+  "ast": 4,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Landon Wendinger",
+  "min": 5,
+  "pts": 2,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Carter Koch",
+  "min": 3,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Bryce Borowicz",
+  "min": 5,
+  "pts": 1,
+  "reb": 0,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Roman Richards",
+  "min": 7,
+  "pts": 0,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Colin Schultz",
+  "min": 3,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Andrew Rocksvold",
+  "min": 3,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "Ty Miller",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 5,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 6,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Andre Renta",
+  "min": 30,
+  "pts": 23,
+  "reb": 3,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Xavier Lewis",
+  "min": 23,
+  "pts": 16,
+  "reb": 8,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Kenji Scales",
+  "min": 29,
+  "pts": 12,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Carter Lichtsinn",
+  "min": 32,
+  "pts": 8,
+  "reb": 10,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Will Boser",
+  "min": 29,
+  "pts": 7,
+  "reb": 0,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Roan Demovsky",
+  "min": 16,
+  "pts": 8,
+  "reb": 2,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Henry Hoel",
+  "min": 10,
+  "pts": 7,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Joey Butz",
+  "min": 11,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Roman Richards",
+  "min": 8,
+  "pts": 2,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Luke Reder",
+  "min": 7,
+  "pts": 2,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "Tyler Haney",
+  "min": 5,
+  "pts": 0,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 6,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Carter Lichtsinn",
+  "min": 33,
+  "pts": 13,
+  "reb": 16,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Andre Renta",
+  "min": 30,
+  "pts": 12,
+  "reb": 4,
+  "ast": 5,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Xavier Lewis",
+  "min": 26,
+  "pts": 12,
+  "reb": 11,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Kenji Scales",
+  "min": 32,
+  "pts": 10,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Will Boser",
+  "min": 32,
+  "pts": 7,
+  "reb": 5,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Roan Demovsky",
+  "min": 15,
+  "pts": 8,
+  "reb": 0,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Henry Hoel",
+  "min": 12,
+  "pts": 4,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Tyler Haney",
+  "min": 4,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Roman Richards",
+  "min": 7,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Joey Butz",
+  "min": 6,
+  "pts": 0,
+  "reb": 0,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "Luke Reder",
+  "min": 3,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 7,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Carter Lichtsinn",
+  "min": 35,
+  "pts": 22,
+  "reb": 11,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Andre Renta",
+  "min": 27,
+  "pts": 16,
+  "reb": 3,
+  "ast": 6,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Kenji Scales",
+  "min": 32,
+  "pts": 13,
+  "reb": 7,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Xavier Lewis",
+  "min": 31,
+  "pts": 11,
+  "reb": 4,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Will Boser",
+  "min": 19,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Tyler Haney",
+  "min": 21,
+  "pts": 15,
+  "reb": 3,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Roan Demovsky",
+  "min": 13,
+  "pts": 4,
+  "reb": 3,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Andrew Rocksvold",
+  "min": 1,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Joey Butz",
+  "min": 8,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Henry Hoel",
+  "min": 7,
+  "pts": 0,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Roman Richards",
+  "min": 4,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "Luke Reder",
+  "min": 2,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 8,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Xavier Lewis",
+  "min": 29,
+  "pts": 27,
+  "reb": 11,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Carter Lichtsinn",
+  "min": 34,
+  "pts": 15,
+  "reb": 14,
+  "ast": 5,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Will Boser",
+  "min": 31,
+  "pts": 12,
+  "reb": 6,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Kenji Scales",
+  "min": 31,
+  "pts": 10,
+  "reb": 3,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Andre Renta",
+  "min": 19,
+  "pts": 2,
+  "reb": 5,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Joey Butz",
+  "min": 9,
+  "pts": 6,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Roan Demovsky",
+  "min": 21,
+  "pts": 5,
+  "reb": 3,
+  "ast": 4,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Luke Reder",
+  "min": 11,
+  "pts": 2,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Tyler Haney",
+  "min": 9,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "Roman Richards",
+  "min": 6,
+  "pts": 0,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 9,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Kenji Scales",
+  "min": 25,
+  "pts": 10,
+  "reb": 2,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Xavier Lewis",
+  "min": 20,
+  "pts": 10,
+  "reb": 11,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Carter Lichtsinn",
+  "min": 28,
+  "pts": 7,
+  "reb": 12,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Will Boser",
+  "min": 22,
+  "pts": 6,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Andre Renta",
+  "min": 18,
+  "pts": 3,
+  "reb": 2,
+  "ast": 4,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Joey Butz",
+  "min": 19,
+  "pts": 10,
+  "reb": 4,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Luke Reder",
+  "min": 12,
+  "pts": 6,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Landon Wendinger",
+  "min": 8,
+  "pts": 6,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Tyler Haney",
+  "min": 13,
+  "pts": 5,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Roman Richards",
+  "min": 6,
+  "pts": 3,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Roan Demovsky",
+  "min": 20,
+  "pts": 2,
+  "reb": 4,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Andrew Rocksvold",
+  "min": 5,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Bryce Borowicz",
+  "min": 2,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Colin Schultz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "Ty Miller",
+  "min": 0,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 10,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Xavier Lewis",
+  "min": 34,
+  "pts": 19,
+  "reb": 9,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Andre Renta",
+  "min": 25,
+  "pts": 16,
+  "reb": 7,
+  "ast": 6,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Will Boser",
+  "min": 27,
+  "pts": 10,
+  "reb": 7,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Kenji Scales",
+  "min": 30,
+  "pts": 9,
+  "reb": 3,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Carter Lichtsinn",
+  "min": 37,
+  "pts": 6,
+  "reb": 12,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Luke Reder",
+  "min": 6,
+  "pts": 4,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Joey Butz",
+  "min": 10,
+  "pts": 3,
+  "reb": 2,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Roan Demovsky",
+  "min": 15,
+  "pts": 2,
+  "reb": 0,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Roman Richards",
+  "min": 3,
+  "pts": 1,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "Tyler Haney",
+  "min": 13,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 11,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 12,
+  "player": "Carter Lichtsinn",
+  "min": 39,
+  "pts": 18,
+  "reb": 13,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Andre Renta",
+  "min": 31,
+  "pts": 17,
+  "reb": 3,
+  "ast": 7,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Kenji Scales",
+  "min": 38,
+  "pts": 16,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Xavier Lewis",
+  "min": 33,
+  "pts": 7,
+  "reb": 11,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Will Boser",
+  "min": 29,
+  "pts": 7,
+  "reb": 3,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Luke Reder",
+  "min": 7,
+  "pts": 6,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Tyler Haney",
+  "min": 10,
+  "pts": 2,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Roan Demovsky",
+  "min": 9,
+  "pts": 2,
+  "reb": 0,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Roman Richards",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "Joey Butz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 12,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Carter Lichtsinn",
+  "min": 29,
+  "pts": 11,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Xavier Lewis",
+  "min": 9,
+  "pts": 9,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Kenji Scales",
+  "min": 31,
+  "pts": 4,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Andre Renta",
+  "min": 17,
+  "pts": 3,
+  "reb": 2,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Will Boser",
+  "min": 19,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Roan Demovsky",
+  "min": 20,
+  "pts": 8,
+  "reb": 0,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Henry Hoel",
+  "min": 15,
+  "pts": 6,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Joey Butz",
+  "min": 14,
+  "pts": 5,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Luke Reder",
+  "min": 10,
+  "pts": 5,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Roman Richards",
+  "min": 11,
+  "pts": 3,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Tyler Haney",
+  "min": 16,
+  "pts": 1,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Landon Wendinger",
+  "min": 6,
+  "pts": 0,
+  "reb": 3,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "Bryce Borowicz",
+  "min": 3,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 13,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 14,
+  "player": "Andre Renta",
+  "min": 26,
+  "pts": 22,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Xavier Lewis",
+  "min": 27,
+  "pts": 15,
+  "reb": 7,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Carter Lichtsinn",
+  "min": 37,
+  "pts": 12,
+  "reb": 8,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Kenji Scales",
+  "min": 31,
+  "pts": 7,
+  "reb": 6,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Will Boser",
+  "min": 25,
+  "pts": 3,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Henry Hoel",
+  "min": 14,
+  "pts": 5,
+  "reb": 5,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Roan Demovsky",
+  "min": 14,
+  "pts": 4,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Tyler Haney",
+  "min": 16,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Roman Richards",
+  "min": 5,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "Joey Butz",
+  "min": 5,
+  "pts": 0,
+  "reb": 0,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 14,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 15,
+  "player": "Andre Renta",
+  "min": 18,
+  "pts": 8,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Xavier Lewis",
+  "min": 19,
+  "pts": 6,
+  "reb": 3,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Will Boser",
+  "min": 19,
+  "pts": 4,
+  "reb": 3,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Carter Lichtsinn",
+  "min": 38,
+  "pts": 2,
+  "reb": 7,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Kenji Scales",
+  "min": 34,
+  "pts": 0,
+  "reb": 2,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Luke Reder",
+  "min": 19,
+  "pts": 9,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Roan Demovsky",
+  "min": 26,
+  "pts": 8,
+  "reb": 2,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Tyler Haney",
+  "min": 18,
+  "pts": 5,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Joey Butz",
+  "min": 6,
+  "pts": 3,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Roman Richards",
+  "min": 2,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "Landon Wendinger",
+  "min": 1,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 15,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 16,
+  "player": "Kenji Scales",
+  "min": 39,
+  "pts": 17,
+  "reb": 6,
+  "ast": 4,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Andre Renta",
+  "min": 28,
+  "pts": 17,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Carter Lichtsinn",
+  "min": 37,
+  "pts": 12,
+  "reb": 10,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Will Boser",
+  "min": 30,
+  "pts": 12,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Xavier Lewis",
+  "min": 29,
+  "pts": 10,
+  "reb": 6,
+  "ast": 5,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Roan Demovsky",
+  "min": 14,
+  "pts": 6,
+  "reb": 4,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Luke Reder",
+  "min": 11,
+  "pts": 3,
+  "reb": 2,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Tyler Haney",
+  "min": 8,
+  "pts": 0,
+  "reb": 0,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Roman Richards",
+  "min": 3,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "Joey Butz",
+  "min": 1,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 16,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 4,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 17,
+  "player": "Kenji Scales",
+  "min": 36,
+  "pts": 18,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Xavier Lewis",
+  "min": 28,
+  "pts": 16,
+  "reb": 7,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Carter Lichtsinn",
+  "min": 35,
+  "pts": 12,
+  "reb": 7,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Will Boser",
+  "min": 27,
+  "pts": 11,
+  "reb": 5,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Andre Renta",
+  "min": 23,
+  "pts": 6,
+  "reb": 1,
+  "ast": 3,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Roan Demovsky",
+  "min": 20,
+  "pts": 5,
+  "reb": 3,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Tyler Haney",
+  "min": 13,
+  "pts": 3,
+  "reb": 1,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Luke Reder",
+  "min": 9,
+  "pts": 2,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Roman Richards",
+  "min": 5,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "Joey Butz",
+  "min": 4,
+  "pts": 0,
+  "reb": 0,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 17,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 5,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Will Boser",
+  "min": 37,
+  "pts": 22,
+  "reb": 3,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Carter Lichtsinn",
+  "min": 40,
+  "pts": 14,
+  "reb": 8,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Andre Renta",
+  "min": 31,
+  "pts": 13,
+  "reb": 2,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Xavier Lewis",
+  "min": 33,
+  "pts": 11,
+  "reb": 6,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Kenji Scales",
+  "min": 42,
+  "pts": 2,
+  "reb": 3,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Roan Demovsky",
+  "min": 17,
+  "pts": 12,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Luke Reder",
+  "min": 12,
+  "pts": 2,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Tyler Haney",
+  "min": 8,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "Roman Richards",
+  "min": 5,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 18,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Carter Lichtsinn",
+  "min": 38,
+  "pts": 13,
+  "reb": 9,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Kenji Scales",
+  "min": 34,
+  "pts": 11,
+  "reb": 4,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Xavier Lewis",
+  "min": 25,
+  "pts": 8,
+  "reb": 0,
+  "ast": 3,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Andre Renta",
+  "min": 21,
+  "pts": 8,
+  "reb": 1,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Will Boser",
+  "min": 29,
+  "pts": 6,
+  "reb": 4,
+  "ast": 3,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Roan Demovsky",
+  "min": 21,
+  "pts": 9,
+  "reb": 0,
+  "ast": 3,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Luke Reder",
+  "min": 15,
+  "pts": 8,
+  "reb": 5,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Tyler Haney",
+  "min": 15,
+  "pts": 0,
+  "reb": 0,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "Roman Richards",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 19,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 20,
+  "player": "Tyler Haney",
+  "min": 36,
+  "pts": 17,
+  "reb": 2,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Carter Lichtsinn",
+  "min": 31,
+  "pts": 16,
+  "reb": 3,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Andre Renta",
+  "min": 24,
+  "pts": 16,
+  "reb": 6,
+  "ast": 3,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Xavier Lewis",
+  "min": 28,
+  "pts": 12,
+  "reb": 9,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Will Boser",
+  "min": 26,
+  "pts": 6,
+  "reb": 2,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Luke Reder",
+  "min": 10,
+  "pts": 12,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Joey Butz",
+  "min": 15,
+  "pts": 2,
+  "reb": 1,
+  "ast": 1,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Roan Demovsky",
+  "min": 15,
+  "pts": 2,
+  "reb": 2,
+  "ast": 2,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Landon Wendinger",
+  "min": 2,
+  "pts": 2,
+  "reb": 1,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Roman Richards",
+  "min": 10,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "Colin Schultz",
+  "min": 3,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 20,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 3,
+  "ast": 0,
+  "result": "W"
+ },
+ {
+  "game": 21,
+  "player": "Andre Renta",
+  "min": 35,
+  "pts": 13,
+  "reb": 1,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Carter Lichtsinn",
+  "min": 36,
+  "pts": 11,
+  "reb": 5,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Tyler Haney",
+  "min": 35,
+  "pts": 9,
+  "reb": 1,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Xavier Lewis",
+  "min": 21,
+  "pts": 7,
+  "reb": 3,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Will Boser",
+  "min": 3,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Roan Demovsky",
+  "min": 24,
+  "pts": 10,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Luke Reder",
+  "min": 17,
+  "pts": 9,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Roman Richards",
+  "min": 16,
+  "pts": 7,
+  "reb": 5,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Joey Butz",
+  "min": 9,
+  "pts": 0,
+  "reb": 0,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Bryce Borowicz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "Colin Schultz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 21,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Andre Renta",
+  "min": 30,
+  "pts": 28,
+  "reb": 5,
+  "ast": 3,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Carter Lichtsinn",
+  "min": 31,
+  "pts": 11,
+  "reb": 3,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Xavier Lewis",
+  "min": 15,
+  "pts": 4,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Will Boser",
+  "min": 30,
+  "pts": 3,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Tyler Haney",
+  "min": 13,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Roan Demovsky",
+  "min": 24,
+  "pts": 11,
+  "reb": 3,
+  "ast": 3,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Roman Richards",
+  "min": 17,
+  "pts": 10,
+  "reb": 9,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Luke Reder",
+  "min": 24,
+  "pts": 6,
+  "reb": 5,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Colin Schultz",
+  "min": 7,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "Joey Butz",
+  "min": 9,
+  "pts": 0,
+  "reb": 1,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 22,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 3,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Xavier Lewis",
+  "min": 34,
+  "pts": 18,
+  "reb": 9,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Andre Renta",
+  "min": 36,
+  "pts": 17,
+  "reb": 4,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Carter Lichtsinn",
+  "min": 28,
+  "pts": 12,
+  "reb": 7,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Tyler Haney",
+  "min": 35,
+  "pts": 11,
+  "reb": 6,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Will Boser",
+  "min": 24,
+  "pts": 0,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Roan Demovsky",
+  "min": 21,
+  "pts": 5,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Luke Reder",
+  "min": 6,
+  "pts": 3,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Roman Richards",
+  "min": 13,
+  "pts": 2,
+  "reb": 3,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "Colin Schultz",
+  "min": 3,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 23,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 3,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Andre Renta",
+  "min": 30,
+  "pts": 22,
+  "reb": 1,
+  "ast": 4,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Will Boser",
+  "min": 30,
+  "pts": 12,
+  "reb": 4,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Tyler Haney",
+  "min": 32,
+  "pts": 5,
+  "reb": 1,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Xavier Lewis",
+  "min": 26,
+  "pts": 4,
+  "reb": 2,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Carter Lichtsinn",
+  "min": 36,
+  "pts": 2,
+  "reb": 3,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Luke Reder",
+  "min": 10,
+  "pts": 5,
+  "reb": 0,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Roan Demovsky",
+  "min": 15,
+  "pts": 4,
+  "reb": 1,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Colin Schultz",
+  "min": 2,
+  "pts": 2,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Roman Richards",
+  "min": 11,
+  "pts": 0,
+  "reb": 5,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Landon Wendinger",
+  "min": 4,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Bryce Borowicz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "Joey Butz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 24,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Andre Renta",
+  "min": 31,
+  "pts": 30,
+  "reb": 7,
+  "ast": 7,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Tyler Haney",
+  "min": 35,
+  "pts": 10,
+  "reb": 3,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Xavier Lewis",
+  "min": 18,
+  "pts": 6,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Carter Lichtsinn",
+  "min": 26,
+  "pts": 4,
+  "reb": 3,
+  "ast": 1,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Will Boser",
+  "min": 29,
+  "pts": 3,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Luke Reder",
+  "min": 20,
+  "pts": 13,
+  "reb": 3,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Joey Butz",
+  "min": 9,
+  "pts": 6,
+  "reb": 0,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Roman Richards",
+  "min": 12,
+  "pts": 5,
+  "reb": 2,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Mondes Kelly",
+  "min": 2,
+  "pts": 2,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Roan Demovsky",
+  "min": 10,
+  "pts": 0,
+  "reb": 2,
+  "ast": 2,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Bryce Borowicz",
+  "min": 2,
+  "pts": 0,
+  "reb": 1,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Colin Schultz",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Andrew Rocksvold",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "Carter Koch",
+  "min": 2,
+  "pts": 0,
+  "reb": 0,
+  "ast": 0,
+  "result": "L"
+ },
+ {
+  "game": 25,
+  "player": "TEAM",
+  "min": 0,
+  "pts": 0,
+  "reb": 9,
+  "ast": 0,
+  "result": "L"
+ }
+]
